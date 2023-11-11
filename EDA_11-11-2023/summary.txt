@@ -1,0 +1,144 @@
+Variable: ID
+Tipo de Variable: int64
+Número de Valores Únicos: 20664, lo que equivale al 68.80% 
+Número de Valores Nulos: 0, lo que equivale al 0.00% 
+Número de Valores Cero: 0, lo que equivale al 0.00% 
+Número de Valores Negativos: 0, lo que equivale al 0.00% 
+Valor Mínimo: 16
+Valor Máximo: 135563
+Promedio: 70271.98884708859
+Percentil 25: 37597.0
+Percentil 50 (Mediana): 69800.0
+Percentil 75: 104185.0
+Percentil 100: 135563
+Número de Outliers: 0, lo que equivale al 0.00% 
+
+
+Variable: Name
+Tipo de Variable: object
+Número de Valores Únicos: 20629, lo que equivale al 68.68% 
+Número de Valores Nulos: 0, lo que equivale al 0.00% 
+
+
+Variable: Sex
+Tipo de Variable: object
+Número de Valores Únicos: 2, lo que equivale al 0.01% 
+Número de Valores Nulos: 0, lo que equivale al 0.00% 
+
+
+Variable: Team
+Tipo de Variable: object
+Número de Valores Únicos: 263, lo que equivale al 0.88% 
+Número de Valores Nulos: 0, lo que equivale al 0.00% 
+
+
+Variable: NOC
+Tipo de Variable: object
+Número de Valores Únicos: 143, lo que equivale al 0.48% 
+Número de Valores Nulos: 0, lo que equivale al 0.00% 
+
+
+Variable: Games
+Tipo de Variable: object
+Número de Valores Únicos: 51, lo que equivale al 0.17% 
+Número de Valores Nulos: 0, lo que equivale al 0.00% 
+
+
+Variable: Year
+Tipo de Variable: int64
+Número de Valores Únicos: 35, lo que equivale al 0.12% 
+Número de Valores Nulos: 0, lo que equivale al 0.00% 
+Número de Valores Cero: 0, lo que equivale al 0.00% 
+Número de Valores Negativos: 0, lo que equivale al 0.00% 
+Valor Mínimo: 1896
+Valor Máximo: 2016
+Promedio: 1988.0098545127676
+Percentil 25: 1976.0
+Percentil 50 (Mediana): 1992.0
+Percentil 75: 2006.0
+Percentil 100: 2016
+Número de Outliers: 1344, lo que equivale al 4.47% 
+Alerta: Se encontraron outliers en esta variable. 
+
+
+Variable: Season
+Tipo de Variable: object
+Número de Valores Únicos: 2, lo que equivale al 0.01% 
+Número de Valores Nulos: 0, lo que equivale al 0.00% 
+
+
+Variable: City
+Tipo de Variable: object
+Número de Valores Únicos: 42, lo que equivale al 0.14% 
+Número de Valores Nulos: 0, lo que equivale al 0.00% 
+
+
+Variable: Sport
+Tipo de Variable: object
+Número de Valores Únicos: 55, lo que equivale al 0.18% 
+Número de Valores Nulos: 0, lo que equivale al 0.00% 
+
+
+Variable: Event
+Tipo de Variable: object
+Número de Valores Únicos: 562, lo que equivale al 1.87% 
+Número de Valores Nulos: 0, lo que equivale al 0.00% 
+
+
+Variable: Medal
+Tipo de Variable: object
+Número de Valores Únicos: 3, lo que equivale al 0.01% 
+Número de Valores Nulos: 0, lo que equivale al 0.00% 
+
+
+Variable: age
+Tipo de Variable: float64
+Número de Valores Únicos: 50, lo que equivale al 0.17% 
+Número de Valores Nulos: 0, lo que equivale al 0.00% 
+Número de Valores Cero: 0, lo que equivale al 0.00% 
+Número de Valores Negativos: 0, lo que equivale al 0.00% 
+Valor Mínimo: 13.0
+Valor Máximo: 66.0
+Promedio: 25.43130139494623
+Percentil 25: 22.0
+Percentil 50 (Mediana): 25.0
+Percentil 75: 28.0
+Percentil 100: 66.0
+Número de Outliers: 1276, lo que equivale al 4.25% 
+Alerta: Se encontraron outliers en esta variable. 
+
+
+Variable: height
+Tipo de Variable: float64
+Número de Valores Únicos: 86, lo que equivale al 0.29% 
+Número de Valores Nulos: 0, lo que equivale al 0.00% 
+Número de Valores Cero: 0, lo que equivale al 0.00% 
+Número de Valores Negativos: 0, lo que equivale al 0.00% 
+Valor Mínimo: 136.0
+Valor Máximo: 223.0
+Promedio: 177.64001065352733
+Percentil 25: 170.0
+Percentil 50 (Mediana): 178.0
+Percentil 75: 185.0
+Percentil 100: 223.0
+Número de Outliers: 1341, lo que equivale al 4.46% 
+Alerta: Se encontraron outliers en esta variable. 
+
+
+Variable: weight
+Tipo de Variable: float64
+Número de Valores Únicos: 183, lo que equivale al 0.61% 
+Número de Valores Nulos: 0, lo que equivale al 0.00% 
+Número de Valores Cero: 0, lo que equivale al 0.00% 
+Número de Valores Negativos: 0, lo que equivale al 0.00% 
+Valor Mínimo: 28.0
+Valor Máximo: 182.0
+Promedio: 73.75563471718215
+Percentil 25: 63.0
+Percentil 50 (Mediana): 73.0
+Percentil 75: 83.0
+Percentil 100: 182.0
+Número de Outliers: 1192, lo que equivale al 3.97% 
+Alerta: Se encontraron outliers en esta variable. 
+
+
