@@ -24,9 +24,9 @@ from pandas.api.types import is_string_dtype
 
 import re
 
-from sklearn.compose import ColumnTransformer,make_column_selector
+from sklearn.compose import ColumnTransformer, make_column_selector
 
-from sklearn.preprocessing import FunctionTransformer, MinMaxScaler,PowerTransformer
+from sklearn.preprocessing import FunctionTransformer, MinMaxScaler, PowerTransformer
 
 from sklearn.pipeline import Pipeline
 
